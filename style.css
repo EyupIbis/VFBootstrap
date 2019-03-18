@@ -1,0 +1,41 @@
+body{
+    font-family:VFZiggofont;    
+}
+
+@font-face {
+    font-family: "VFZiggofont";
+    src: url("/Fonts/vodafonelt-regular.woff") format('woff');
+}
+
+
+img {
+    width: 40px !important;
+    height: auto;
+}
+
+.jumbotron-red{
+    background:#BB0F0B;
+}
+
+.btn-vf {
+    padding: 18px 28px;
+    font-size: 12px;
+    line-height: normal;
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+  
+}
+
+.customButton{
+    background:darkslategrey !important;
+
+}
